@@ -9,10 +9,10 @@ class Email:
     def __init__(self):
         self.GMAIL_SMTP = "smtp.gmail.com"
         self.GMAIL_IMAP = "imap.gmail.com"
-        self.l = 'laitkilla@gmail.com'
-        self.passwORD = 'msumcfzz342511m'
+        self.l = 'test@gmail.com'
+        self.passwORD = 'test'
         self.subject = 'Subject'
-        self.recipients = ['troyan_rus@mail.ru']
+        self.recipients = ['test@mail.ru']
         self.message = 'Message'
         self.header = None
 
