@@ -54,6 +54,3 @@ class Email:
         self.email_message = email.message_from_string(self.raw_email)
         self.mail.logout()
 
-
-test = Email()
-test.reсieve()
